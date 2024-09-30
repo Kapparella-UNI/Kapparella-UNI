@@ -25,7 +25,6 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
