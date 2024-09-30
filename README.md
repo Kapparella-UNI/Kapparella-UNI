@@ -21,9 +21,6 @@
 
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  &nbsp; 
-  &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/Kapparellozzo">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
